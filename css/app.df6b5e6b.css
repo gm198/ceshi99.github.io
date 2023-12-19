@@ -1,0 +1,28 @@
+body {
+    margin: 0
+}
+
+#app {
+    margin: 0 auto;
+    min-width: 320px;
+    max-width: 750px;
+    min-height: 100vh;
+    background: linear-gradient(203deg,#cffefe,#ffeef3 61%,#e8e6ff)
+}
+
+.el-header {
+    line-height: 60px
+}
+
+.el-main {
+    color: #333;
+    text-align: left
+}
+
+.el-main .el-row {
+    line-height: 80px
+}
+
+.el-main .el-button {
+    width: 100%
+}
